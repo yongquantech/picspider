@@ -1,2 +1,0 @@
-# picspider
-Picture spider
